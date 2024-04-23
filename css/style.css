@@ -9,7 +9,7 @@
 } */
 #container {
 	margin:0 auto; 
-	width:2850px; 	
+	width:2250px; 	
 }
 #header { 
 	height:278px;/*必须添加，否则header下面有10px而不是5px空白*/
